@@ -9,8 +9,8 @@ const Navbar = () => {
                 <a href="#">Home</a>
                 <a href="#">Free Course</a>
                 <a href="#">Free Resources</a>
-                <CTAbtn text="Start Learning" />
             </div>
+            <CTAbtn text="Start Learning" />
         </div>
     </nav>
   )
