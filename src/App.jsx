@@ -1,5 +1,6 @@
 import './App.css'
 import Hero from './components/Hero'
+import Learn from './components/Learn'
 import Navbar from './components/Navbar'
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Hero />
+      <Learn />
     </div>
   )
 }
