@@ -52,6 +52,10 @@ nav .container {
   font-weight: 500;
 }
 
+.nav-items > a:hover {
+  text-decoration: underline;
+}
+
 /* Hero Section */
 .hero-section .container {
   padding: 2em 0;
