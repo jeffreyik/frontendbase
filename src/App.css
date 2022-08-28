@@ -75,3 +75,7 @@ nav .container {
 .hero-text > .cta-btn {
   margin-top: 1em;
 }
+
+.hero-img {
+  width: 40%;
+}
