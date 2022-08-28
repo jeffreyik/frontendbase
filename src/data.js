@@ -1,22 +1,22 @@
 export const Courses = [
     {
-        name: "HTML",
+        name: "Fundamentals of Web Design",
         description: "",
         id: "HTML"
     },
     {
-        name: "CSS",
+        name: "Javascript Framework (React)",
         description: "",
         id: "CSS"
     },
     {
-        name: "JavaScript",
+        name: "Web UI/UX Design",
         description: "",
         id: "JavaScript"
     },
     {
-        name: "React",
+        name: "Web Accessibility",
         description: "",
-        id: "React"
-    }
+        id: "JavaScript"
+    },
 ]

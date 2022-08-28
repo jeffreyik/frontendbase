@@ -6,6 +6,7 @@ const Learn = () => {
   return (
     <section className="learn">
         <div className="container">
+          <h2>Learn for free </h2>
             <div className="card-container">
                 {Courses.map(course => {
                   return <Card key={course.id} title={course.name} description={course.description} />
